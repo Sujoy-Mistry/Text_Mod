@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Text-Mod/static/css/main.d1b05096.chunk.css",
+    "main.js": "/Text-Mod/static/js/main.d714c7d9.chunk.js",
+    "main.js.map": "/Text-Mod/static/js/main.d714c7d9.chunk.js.map",
+    "runtime~main.js": "/Text-Mod/static/js/runtime~main.5e968868.js",
+    "runtime~main.js.map": "/Text-Mod/static/js/runtime~main.5e968868.js.map",
+    "static/js/2.624f555d.chunk.js": "/Text-Mod/static/js/2.624f555d.chunk.js",
+    "static/js/2.624f555d.chunk.js.map": "/Text-Mod/static/js/2.624f555d.chunk.js.map",
+    "static/js/3.4183067e.chunk.js": "/Text-Mod/static/js/3.4183067e.chunk.js",
+    "static/js/3.4183067e.chunk.js.map": "/Text-Mod/static/js/3.4183067e.chunk.js.map",
+    "index.html": "/Text-Mod/index.html",
+    "precache-manifest.d7d4cf4d0366d7b0f47f10eb743fd31e.js": "/Text-Mod/precache-manifest.d7d4cf4d0366d7b0f47f10eb743fd31e.js",
+    "service-worker.js": "/Text-Mod/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/Text-Mod/static/css/main.d1b05096.chunk.css.map"
+  }
+}
